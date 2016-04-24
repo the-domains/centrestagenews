@@ -1,7 +1,7 @@
-name: CENTRESTAGENEWS
+name: CSNEWS
 favicon: null
-layout_spectrum: 0.4845848900731653
-typography_spectrum: 0.9745767917484045
+layout_spectrum: 0.43108
+typography_spectrum: 0.79958
 title: 'NEWS & HAPPENINGS'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.5149949891492724
-  lightness: 0.432006174698472
-  saturation: 0.9498192023020238
-  rhythmicContrast: 0.262429925147444
+    - '#000000'
+    - '#ffffff'
+    - '#333029'
+    - '#a6a090'
+    - '#c24510'
+  brandStrength: 0.8125
+  lightness: 0.3125
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
